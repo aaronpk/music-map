@@ -1,0 +1,6 @@
+source :rubygems
+
+gem 'mechanize'
+gem 'unshorten',  ">=0.2.1"
+gem 'rest-client'
+gem 'geoloqi'

@@ -1,0 +1,863 @@
+[
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.53999366251,
+          33.801026834129
+        ]
+      },
+      "properties": {
+        "trackName": "The Boy",
+        "trackAlbum": "Elapsed Time",
+        "trackArtist": "Celine",
+        "trackURL": "http://www.last.fm/music/Celine/_/The+Boy",
+        "image": "http://userserve-ak.last.fm/serve/126/32998241.jpg",
+        "localDate": "2013-07-12 19:11:17",
+        "localDateFormatted": "Jul 12 7:11pm",
+        "timestamp": 1373681477,
+        "spotifyURL": "http://open.spotify.com/track/56DRTQc01wwskGXQZmUrPJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.54001118069,
+          33.801058643451
+        ]
+      },
+      "properties": {
+        "trackName": "Strawberries - Ulrich Schnauss Remix Of Asobi Seksu",
+        "trackAlbum": "Missing Deadlines : Selected Remixes",
+        "trackArtist": "Asobi Seksu",
+        "trackURL": "http://www.last.fm/music/Asobi+Seksu/_/Strawberries+-+Ulrich+Schnauss+Remix+Of+Asobi+Seksu",
+        "image": "http://userserve-ak.last.fm/serve/126/43817409.jpg",
+        "localDate": "2013-07-12 19:07:31",
+        "localDateFormatted": "Jul 12 7:07pm",
+        "timestamp": 1373681251,
+        "spotifyURL": "http://open.spotify.com/track/0yLeh6nveqZvzo6NcrnqJr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.51333015797,
+          33.800090659363
+        ]
+      },
+      "properties": {
+        "trackName": "Crazy for You",
+        "trackAlbum": "Far Away Trains Passing By",
+        "trackArtist": "Ulrich Schnauss",
+        "trackURL": "http://www.last.fm/music/Ulrich+Schnauss/_/Crazy+for+You",
+        "image": "http://userserve-ak.last.fm/serve/126/64802487.png",
+        "localDate": "2013-07-12 19:00:57",
+        "localDateFormatted": "Jul 12 7:00pm",
+        "timestamp": 1373680857,
+        "spotifyURL": "http://open.spotify.com/track/3MWToltSqef5lgDt0pO16p"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.44714329775,
+          33.772258298419
+        ]
+      },
+      "properties": {
+        "trackName": "In All the Wrong Places",
+        "trackAlbum": "Semper Satago",
+        "trackArtist": "Ulrich Schnauss",
+        "trackURL": "http://www.last.fm/music/Ulrich+Schnauss/_/In+All+the+Wrong+Places",
+        "image": "http://userserve-ak.last.fm/serve/126/39098059.png",
+        "localDate": "2013-07-12 18:53:54",
+        "localDateFormatted": "Jul 12 6:53pm",
+        "timestamp": 1373680434,
+        "spotifyURL": "http://open.spotify.com/track/3PwglzRMm7c6Ffjk6lt5ca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.41645899425,
+          33.745524260156
+        ]
+      },
+      "properties": {
+        "trackName": "The Summer",
+        "trackAlbum": "Vapor Trails: The Echoes Living Room Concerts, Vol. 14",
+        "trackArtist": "Balmorhea",
+        "trackURL": "http://www.last.fm/music/Balmorhea/_/The+Summer",
+        "image": "http://userserve-ak.last.fm/serve/126/85332009.png",
+        "localDate": "2013-07-12 18:49:55",
+        "localDateFormatted": "Jul 12 6:49pm",
+        "timestamp": 1373680195,
+        "spotifyURL": "http://open.spotify.com/track/3CLOUBUZyhUSjV7hEdsean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.39122711876,
+          33.721273654076
+        ]
+      },
+      "properties": {
+        "trackName": "One Day",
+        "trackAlbum": "Elapsed Time",
+        "trackArtist": "Celine",
+        "trackURL": "http://www.last.fm/music/Celine/_/One+Day",
+        "image": "http://userserve-ak.last.fm/serve/126/32998241.jpg",
+        "localDate": "2013-07-12 18:45:48",
+        "localDateFormatted": "Jul 12 6:45pm",
+        "timestamp": 1373679948,
+        "spotifyURL": "http://open.spotify.com/track/5FB1M7GUN2m6mGWRnxhzfX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.40555816153,
+          33.681726577618
+        ]
+      },
+      "properties": {
+        "trackName": "Consequence",
+        "trackAlbum": "Semper Satago",
+        "trackArtist": "The Notwist",
+        "trackURL": "http://www.last.fm/music/The+Notwist/_/Consequence",
+        "image": "http://userserve-ak.last.fm/serve/126/43991733.png",
+        "localDate": "2013-07-12 18:40:35",
+        "localDateFormatted": "Jul 12 6:40pm",
+        "timestamp": 1373679635,
+        "spotifyURL": "http://open.spotify.com/track/3Qn9cHttYXWA4YTOzE0vXu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.40677580061,
+          33.667647830133
+        ]
+      },
+      "properties": {
+        "trackName": "Seaside Entrance",
+        "trackAlbum": "Losing Them All to This Time",
+        "trackArtist": "A Shoreline Dream",
+        "trackURL": "http://www.last.fm/music/A+Shoreline+Dream/_/Seaside+Entrance",
+        "image": "http://userserve-ak.last.fm/serve/126/74986338.jpg",
+        "localDate": "2013-07-12 18:39:37",
+        "localDateFormatted": "Jul 12 6:39pm",
+        "timestamp": 1373679577,
+        "spotifyURL": "http://open.spotify.com/track/4SvpnkD0T8rG1nkOO49ymp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.39830739619,
+          33.651132253849
+        ]
+      },
+      "properties": {
+        "trackName": "Broken Heart",
+        "trackAlbum": "3...2...1... A Rocket Girl Compilation",
+        "trackArtist": "Robin Guthrie",
+        "trackURL": "http://www.last.fm/music/Robin+Guthrie/_/Broken+Heart",
+        "image": "http://userserve-ak.last.fm/serve/126/60841131.jpg",
+        "localDate": "2013-07-12 18:35:07",
+        "localDateFormatted": "Jul 12 6:35pm",
+        "timestamp": 1373679307,
+        "spotifyURL": "http://open.spotify.com/track/1UyAH5lDjcAja8DpaW8J4c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.40066380063,
+          33.649470793002
+        ]
+      },
+      "properties": {
+        "trackName": "Setting Sun - Ulrich Schnauss Remix Of Howling Bells",
+        "trackAlbum": "Missing Deadlines : Selected Remixes",
+        "trackArtist": "Howling Bells",
+        "trackURL": "http://www.last.fm/music/Howling+Bells/_/Setting+Sun+-+Ulrich+Schnauss+Remix+Of+Howling+Bells",
+        "image": "http://userserve-ak.last.fm/serve/126/43816553.jpg",
+        "localDate": "2013-07-12 18:31:26",
+        "localDateFormatted": "Jul 12 6:31pm",
+        "timestamp": 1373679086,
+        "spotifyURL": "http://open.spotify.com/track/3S44Wqrxs7eMXT97EdDygr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.49752004456,
+          33.570864383031
+        ]
+      },
+      "properties": {
+        "trackName": "... Passing By",
+        "trackAlbum": "Far Away Trains Passing By",
+        "trackArtist": "Ulrich Schnauss",
+        "trackURL": "http://www.last.fm/music/Ulrich+Schnauss/_/%E2%80%A6+Passing+By",
+        "image": "http://userserve-ak.last.fm/serve/126/64802487.png",
+        "localDate": "2013-07-12 18:12:48",
+        "localDateFormatted": "Jul 12 6:12pm",
+        "timestamp": 1373677968,
+        "spotifyURL": "http://open.spotify.com/track/1YqWnxruj4SxK2zvgB0cj5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.56225105202,
+          33.563137148405
+        ]
+      },
+      "properties": {
+        "trackName": "Just Like Heaven",
+        "trackAlbum": "Greatest Hits",
+        "trackArtist": "The Cure",
+        "trackURL": "http://www.last.fm/music/The+Cure/_/Just+Like+Heaven",
+        "image": "http://userserve-ak.last.fm/serve/126/40122903.png",
+        "localDate": "2013-07-12 18:07:57",
+        "localDateFormatted": "Jul 12 6:07pm",
+        "timestamp": 1373677677,
+        "spotifyURL": "http://open.spotify.com/track/7C6NcqS3fNDXLgP5L2Kbgp"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.60767753064,
+          33.559205616722
+        ]
+      },
+      "properties": {
+        "trackName": "No Church in the Wild",
+        "trackAlbum": "Music From Baz Luhrmann's Film The Great Gatsby",
+        "trackArtist": "The Throne",
+        "trackURL": "http://www.last.fm/music/The+Throne/_/No+Church+in+the+Wild",
+        "image": "http://userserve-ak.last.fm/serve/126/89104729.png",
+        "localDate": "2013-07-12 18:03:24",
+        "localDateFormatted": "Jul 12 6:03pm",
+        "timestamp": 1373677404,
+        "spotifyURL": "http://open.spotify.com/track/0aFObVR01JzPbBMjze4xPV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.67456184902,
+          33.555101585471
+        ]
+      },
+      "properties": {
+        "trackName": "Clarity",
+        "trackAlbum": "Clarity",
+        "trackArtist": "Zedd",
+        "trackURL": "http://www.last.fm/music/Zedd/_/Clarity",
+        "image": "http://userserve-ak.last.fm/serve/126/82585173.png",
+        "localDate": "2013-07-12 17:58:52",
+        "localDateFormatted": "Jul 12 5:58pm",
+        "timestamp": 1373677132,
+        "spotifyURL": "http://open.spotify.com/track/1nPF6CQ45FRNqrryZcnE57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.72757814096,
+          33.545844611606
+        ]
+      },
+      "properties": {
+        "trackName": "Sex",
+        "trackAlbum": "Sex EP",
+        "trackArtist": "The 1975",
+        "trackURL": "http://www.last.fm/music/The+1975/_/Sex",
+        "image": "http://userserve-ak.last.fm/serve/126/88526751.png",
+        "localDate": "2013-07-12 17:55:25",
+        "localDateFormatted": "Jul 12 5:55pm",
+        "timestamp": 1373676925,
+        "spotifyURL": "http://open.spotify.com/track/0oMq2u3Z1l1VAOL9HNnBhT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.78744496237,
+          33.516015890873
+        ]
+      },
+      "properties": {
+        "trackName": "New Map",
+        "trackAlbum": "Hurry Up We're Dreaming",
+        "trackArtist": "M83",
+        "trackURL": "http://www.last.fm/music/M83/_/New+Map",
+        "image": "http://userserve-ak.last.fm/serve/126/74185792.png",
+        "localDate": "2013-07-12 17:51:01",
+        "localDateFormatted": "Jul 12 5:51pm",
+        "timestamp": 1373676661,
+        "spotifyURL": "http://open.spotify.com/track/3oRYEOP97uzCOzmKjBu0YN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.84117882905,
+          33.483093661136
+        ]
+      },
+      "properties": {
+        "trackName": "Global Concepts",
+        "trackAlbum": "Just Movement",
+        "trackArtist": "Robert DeLong",
+        "trackURL": "http://www.last.fm/music/Robert+DeLong/_/Global+Concepts",
+        "image": "http://userserve-ak.last.fm/serve/126/86789175.png",
+        "localDate": "2013-07-12 17:46:21",
+        "localDateFormatted": "Jul 12 5:46pm",
+        "timestamp": 1373676381,
+        "spotifyURL": "http://open.spotify.com/track/37E9Yatw0UtG5gawq35S0q"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.86193116402,
+          33.441642090548
+        ]
+      },
+      "properties": {
+        "trackName": "A Little Party Never Killed Nobody",
+        "trackAlbum": "Music From Baz Luhrmann's Film The Great Gatsby",
+        "trackArtist": "Fergie",
+        "trackURL": "http://www.last.fm/music/Fergie/_/A+Little+Party+Never+Killed+Nobody+(All+We+Got)",
+        "image": "http://userserve-ak.last.fm/serve/126/89438439.png",
+        "localDate": "2013-07-12 17:42:11",
+        "localDateFormatted": "Jul 12 5:42pm",
+        "timestamp": 1373676131,
+        "spotifyURL": "http://open.spotify.com/track/1mz9ZrRYu3EPVg9ZHFtjjf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.91461142546,
+          33.463929529177
+        ]
+      },
+      "properties": {
+        "trackName": "Blurred Lines",
+        "trackAlbum": "Blurred Lines",
+        "trackArtist": "Robin Thicke",
+        "trackURL": "http://www.last.fm/music/Robin+Thicke/_/Blurred+Lines",
+        "image": "http://userserve-ak.last.fm/serve/126/90553053.png",
+        "localDate": "2013-07-12 17:37:44",
+        "localDateFormatted": "Jul 12 5:37pm",
+        "timestamp": 1373675864,
+        "spotifyURL": "http://open.spotify.com/track/5PUvinSo4MNqW7vmomGRS7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.96046705753,
+          33.466708465355
+        ]
+      },
+      "properties": {
+        "trackName": "I Believe",
+        "trackAlbum": "Attack Decay Sustain Release",
+        "trackArtist": "Simian Mobile Disco",
+        "trackURL": "http://www.last.fm/music/Simian+Mobile+Disco/_/I+Believe",
+        "image": "http://userserve-ak.last.fm/serve/126/87195951.png",
+        "localDate": "2013-07-12 17:34:19",
+        "localDateFormatted": "Jul 12 5:34pm",
+        "timestamp": 1373675659,
+        "spotifyURL": "http://open.spotify.com/track/10zzmoWQkfiUfZRBDS88i9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02239389928,
+          33.474076703068
+        ]
+      },
+      "properties": {
+        "trackName": "Midnight City",
+        "trackAlbum": "Midnight City",
+        "trackArtist": "M83",
+        "trackURL": "http://www.last.fm/music/M83/_/Midnight+City",
+        "image": "http://userserve-ak.last.fm/serve/126/78308722.png",
+        "localDate": "2013-07-12 17:30:17",
+        "localDateFormatted": "Jul 12 5:30pm",
+        "timestamp": 1373675417,
+        "spotifyURL": "http://open.spotify.com/track/6pbycPD2x8ZKrur0qAxGDQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06294001477,
+          33.490268234976
+        ]
+      },
+      "properties": {
+        "trackName": "Paper Planes",
+        "trackAlbum": "Kala",
+        "trackArtist": "M.I.A.",
+        "trackURL": "http://www.last.fm/music/M.I.A./_/Paper+Planes",
+        "image": "http://userserve-ak.last.fm/serve/126/81994461.png",
+        "localDate": "2013-07-12 17:26:54",
+        "localDateFormatted": "Jul 12 5:26pm",
+        "timestamp": 1373675214,
+        "spotifyURL": "http://open.spotify.com/track/1kusepF3AacIEtUTYrw4GV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.12113590378,
+          33.475938868587
+        ]
+      },
+      "properties": {
+        "trackName": "Right Here, Right Now",
+        "trackAlbum": "You've Come A Long Way Baby",
+        "trackArtist": "Fatboy Slim",
+        "trackURL": "http://www.last.fm/music/Fatboy+Slim/_/Right+Here,+Right+Now",
+        "image": "http://userserve-ak.last.fm/serve/126/79819043.png",
+        "localDate": "2013-07-12 17:21:02",
+        "localDateFormatted": "Jul 12 5:21pm",
+        "timestamp": 1373674862,
+        "spotifyURL": "http://open.spotify.com/track/4vUUCGywCsZy0Dk1QFwxTX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13820606869,
+          33.474320323084
+        ]
+      },
+      "properties": {
+        "trackName": "Ce Matin-là",
+        "trackAlbum": "Moon Safari",
+        "trackArtist": "Air",
+        "trackURL": "http://www.last.fm/music/Air/_/Ce+Matin-l%C3%A0",
+        "image": "http://userserve-ak.last.fm/serve/126/46536731.png",
+        "localDate": "2013-07-12 17:17:07",
+        "localDateFormatted": "Jul 12 5:17pm",
+        "timestamp": 1373674627,
+        "spotifyURL": "http://open.spotify.com/track/0pEmzblUxXvzIYnJpu8gWW"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15485839573,
+          33.41982638543
+        ]
+      },
+      "properties": {
+        "trackName": "Halcyon And On And On",
+        "trackAlbum": "Orbital 2",
+        "trackArtist": "Orbital",
+        "trackURL": "http://www.last.fm/music/Orbital/_/Halcyon+And+On+And+On",
+        "image": "http://userserve-ak.last.fm/serve/126/77618920.png",
+        "localDate": "2013-07-12 17:07:40",
+        "localDateFormatted": "Jul 12 5:07pm",
+        "timestamp": 1373674060,
+        "spotifyURL": "http://open.spotify.com/track/6l0LbTF2V77M3LPpcOBmqX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.17414180217,
+          33.390889624923
+        ]
+      },
+      "properties": {
+        "trackName": "Midnight City",
+        "trackAlbum": "Midnight City",
+        "trackArtist": "M83",
+        "trackURL": "http://www.last.fm/music/M83/_/Midnight+City",
+        "image": "http://userserve-ak.last.fm/serve/126/78308722.png",
+        "localDate": "2013-07-12 17:03:43",
+        "localDateFormatted": "Jul 12 5:03pm",
+        "timestamp": 1373673823,
+        "spotifyURL": "http://open.spotify.com/track/6pbycPD2x8ZKrur0qAxGDQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16022910018,
+          33.363117110767
+        ]
+      },
+      "properties": {
+        "trackName": "Lights",
+        "trackAlbum": "Lights (Bassnectar Remix)",
+        "trackArtist": "Ellie Goulding",
+        "trackURL": "http://www.last.fm/music/Ellie+Goulding/_/Lights",
+        "image": "http://userserve-ak.last.fm/serve/126/83388549.png",
+        "localDate": "2013-07-12 16:59:10",
+        "localDateFormatted": "Jul 12 4:59pm",
+        "timestamp": 1373673550,
+        "spotifyURL": "http://open.spotify.com/track/1JP779IkUMANQVaPGzc6Ld"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15884063792,
+          33.344715731997
+        ]
+      },
+      "properties": {
+        "trackName": "Lovesong",
+        "trackAlbum": "Greatest Hits",
+        "trackArtist": "The Cure",
+        "trackURL": "http://www.last.fm/music/The+Cure/_/Lovesong",
+        "image": "http://userserve-ak.last.fm/serve/126/40122903.png",
+        "localDate": "2013-07-12 16:55:40",
+        "localDateFormatted": "Jul 12 4:55pm",
+        "timestamp": 1373673340,
+        "spotifyURL": "http://open.spotify.com/track/0QbKDAp6iEC9XtQbkjRxMm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15381292094,
+          33.316563727175
+        ]
+      },
+      "properties": {
+        "trackName": "Gotta Get Back To You",
+        "trackAlbum": "Celebrating 10 Years Of Groove",
+        "trackArtist": "Down To The Bone",
+        "trackURL": "http://www.last.fm/music/Down+To+The+Bone/_/Gotta+Get+Back+To+You",
+        "image": "http://userserve-ak.last.fm/serve/126/14028163.jpg",
+        "localDate": "2013-07-12 16:50:13",
+        "localDateFormatted": "Jul 12 4:50pm",
+        "timestamp": 1373673013,
+        "spotifyURL": "http://open.spotify.com/track/5kdzFUxszs4VflLHgPoV1P"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15120246102,
+          33.242552150796
+        ]
+      },
+      "properties": {
+        "trackName": "Smalltown Boy",
+        "trackAlbum": "The Age of Consent",
+        "trackArtist": "Bronski Beat",
+        "trackURL": "http://www.last.fm/music/Bronski+Beat/_/Smalltown+Boy",
+        "image": "http://userserve-ak.last.fm/serve/126/86318655.png",
+        "localDate": "2013-07-12 16:45:10",
+        "localDateFormatted": "Jul 12 4:45pm",
+        "timestamp": 1373672710,
+        "spotifyURL": "http://open.spotify.com/track/0FrCX7P2C2hcRTcuhjEvK4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.09907708156,
+          33.115844974088
+        ]
+      },
+      "properties": {
+        "trackName": "I Remember",
+        "trackAlbum": "Random Album Title",
+        "trackArtist": "deadmau5",
+        "trackURL": "http://www.last.fm/music/deadmau5/_/I+Remember",
+        "image": "http://userserve-ak.last.fm/serve/126/31753527.png",
+        "localDate": "2013-07-12 16:36:43",
+        "localDateFormatted": "Jul 12 4:36pm",
+        "timestamp": 1373672203,
+        "spotifyURL": "http://open.spotify.com/track/4n7z18gyhAj3pCmcWRZikI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07126433427,
+          33.055861141313
+        ]
+      },
+      "properties": {
+        "trackName": "Polish Girl",
+        "trackAlbum": "Era Extraña",
+        "trackArtist": "Neon Indian",
+        "trackURL": "http://www.last.fm/music/Neon+Indian/_/Polish+Girl",
+        "image": "http://userserve-ak.last.fm/serve/126/68784360.png",
+        "localDate": "2013-07-12 16:32:10",
+        "localDateFormatted": "Jul 12 4:32pm",
+        "timestamp": 1373671930,
+        "spotifyURL": "http://open.spotify.com/track/5vt6pqAPJjvnxQVy0FHsAA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.08213222611,
+          32.997269668383
+        ]
+      },
+      "properties": {
+        "trackName": "Within",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Within",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 16:24:56",
+        "localDateFormatted": "Jul 12 4:24pm",
+        "timestamp": 1373671496,
+        "spotifyURL": "http://open.spotify.com/track/7Bxv0WL7UC6WwQpk9TzdMJ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06237716998,
+          32.978796582431
+        ]
+      },
+      "properties": {
+        "trackName": "The Game of Love",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/The+Game+of+Love",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 16:19:32",
+        "localDateFormatted": "Jul 12 4:19pm",
+        "timestamp": 1373671172,
+        "spotifyURL": "http://open.spotify.com/track/3ctALmweZBapfBdFiIVpji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.06137603546,
+          32.980051856251
+        ]
+      },
+      "properties": {
+        "trackName": "Instant Crush",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas)",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 16:13:55",
+        "localDateFormatted": "Jul 12 4:13pm",
+        "timestamp": 1373670835,
+        "spotifyURL": "http://open.spotify.com/track/2cGxRwrMyEAp8dEbuZaVv6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07525671857,
+          32.971215528196
+        ]
+      },
+      "properties": {
+        "trackName": "Fragments of Time",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Fragments+of+Time+(feat.+Todd+Edwards)",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 15:05:50",
+        "localDateFormatted": "Jul 12 3:05pm",
+        "timestamp": 1373666750,
+        "spotifyURL": "http://open.spotify.com/track/0IedgQjjJ8Ad4B3UDQ5Lyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11301283378,
+          32.930507306692
+        ]
+      },
+      "properties": {
+        "trackName": "Motherboard",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Motherboard",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 14:59:27",
+        "localDateFormatted": "Jul 12 2:59pm",
+        "timestamp": 1373666367,
+        "spotifyURL": "http://open.spotify.com/track/79koEJRtKOOGJ0VSAF3FMk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.13226849612,
+          32.84238483823
+        ]
+      },
+      "properties": {
+        "trackName": "Lose Yourself to Dance",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams)",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 14:53:37",
+        "localDateFormatted": "Jul 12 2:53pm",
+        "timestamp": 1373666017,
+        "spotifyURL": "http://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16242758957,
+          32.767136847313
+        ]
+      },
+      "properties": {
+        "trackName": "Beyond",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Beyond",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 14:48:46",
+        "localDateFormatted": "Jul 12 2:48pm",
+        "timestamp": 1373665726,
+        "spotifyURL": "http://open.spotify.com/track/0k1xMUwn9sb7bZiqdT9ygx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.15564327714,
+          32.718988932371
+        ]
+      },
+      "properties": {
+        "trackName": "Give Life Back to Music",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 14:44:10",
+        "localDateFormatted": "Jul 12 2:44pm",
+        "timestamp": 1373665450,
+        "spotifyURL": "http://open.spotify.com/track/0dEIca2nhcxDUV8C5QkPYb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.16489882608,
+          32.708429871758
+        ]
+      },
+      "properties": {
+        "trackName": "Get Lucky",
+        "trackAlbum": "Random Access Memories",
+        "trackArtist": "Daft Punk",
+        "trackURL": "http://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams)",
+        "image": "http://userserve-ak.last.fm/serve/126/91455201.png",
+        "localDate": "2013-07-12 14:38:01",
+        "localDateFormatted": "Jul 12 2:38pm",
+        "timestamp": 1373665081,
+        "spotifyURL": "http://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq"
+      }
+    }
+  ]
